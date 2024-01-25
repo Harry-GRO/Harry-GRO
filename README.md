@@ -1,16 +1,19 @@
-### Hi there 👋
+### Ignore this it's to remind myself how to use github 😊
+#
+### FOR LINKING NEW REPOSITORY:
+#
+### 1) Make sure in right directory
+### 2) git init -b main
+### 3) git add .
+### 4) git commit -m "Commit Message"
+### 5) git remote add origin URL_HERE
+### 6) git push origin main
+#
+#
+### FOR USING EXISTING REPOSITORY:
+#
+### 1) git pull origin main
+### 2) git add .
+### 3) git commit -m "Commit Message"
+### 4) git push origin main
 
-<!--
-**Harry-GRO/Harry-GRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
