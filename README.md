@@ -6,7 +6,7 @@ CS student at the University of Surrey · Placement year 2025–26 · Building t
 
 ## Projects
 
-**[In-Browser Audio Editor](https://github.com/harrygroves)**
+**[In-Browser Audio Editor](https://github.com/Harry-GRO/Melody-Lab)**
 Full-stack audio editor running entirely in the browser via the Web Audio API. Supports effects like reverb and tempo adjustment, with a Django backend handling file processing.
 
 **[Sheet Music Sharing Forum](https://github.com/harrygroves)**
