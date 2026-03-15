@@ -32,5 +32,5 @@ Web forum for uploading, downloading, and interacting with sheet music. Built wi
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harry%20Groves-0077B5?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harry%20Groves-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/harry-groves/)
 [![Email](https://img.shields.io/badge/Email-groveshj06%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:groveshj06@gmail.com)
